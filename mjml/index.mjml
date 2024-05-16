@@ -1,18 +1,27 @@
 
 <mjml>
-  <mj-head></mj-head>
+  <mj-head>
+    <mj-title>Lettre Assurance Etudiant Mai</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"></meta>
+      <meta name="supported-color-schemes" content="light"></meta>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+    </mj-attributes>
+  </mj-head>
   <mj-body background-color="#fcfcfc">
-    <mj-section background-color="#ffffff" padding="20px 32px 4px 32px">
-      <mj-column>
+    <mj-section background-color="#ffffff" padding-bottom="4px">
+      <mj-column width="480px">
         <mj-text padding="0px" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:700" href="{{ mirror }}">ici</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#EDF2F7"> 
       <mj-column>
-        <mj-image/>
+        <mj-image align="left" padding="0" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-image/>
+        <mj-image></mj-image>
         <mj-social>
           <mj-social-element></mj-social-element>
           <mj-social-element></mj-social-element>
@@ -20,18 +29,15 @@
         </mj-social>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>news ecosup assurance | Mai 2024</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text>Ecosup Assurance partenaire de l'ESA Paris (École Supérieure d'Assurance)</mj-text>
-      </mj-column>
+    <mj-section background-color="#4A5568" padding="0">
+      <mj-group width="480px">
+        <mj-column width="20%" padding-top="8px" padding-bottom="8px" padding-right="8px" vertical-align="middle">
+          <mj-image padding="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
+        </mj-column>
+        <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px">
+          <mj-text vertical-align="middle" padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <em>(École Supérieure d'Assurance)</em></mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
   </mj-body>
 </mjml>

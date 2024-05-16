@@ -46,5 +46,11 @@
         </mj-column>
       </mj-group>
     </mj-section>
+    <mj-section background-color="#270938">
+      <mj-column>
+        <mj-text align="center" font-size="28px" font-weight="500" color="#BA4995">Vous recherchez une <strong style="color:#ffffff">alternance</strong> pour votre BTS ou votre Bachelor dans le domaine de la Banque - Assurance : <strong style="color:#ffffff">Nous avons des postes pour vous !</strong></mj-text>
+        <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff">Postulez</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>

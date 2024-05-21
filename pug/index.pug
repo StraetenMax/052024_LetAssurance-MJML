@@ -1,34 +1,25 @@
-mjml
-    //- Head
-    mj-head
-        mj-title Lettre Assurance Etudiant Mai
-        mj-raw.
-            <meta name="color-scheme" content="light"></meta>
-            <meta name="supported-color-schemes" content="light"></meta>
-        mj-attributes
-            mj-all(font-family='Arial, Helvetica, sans-serif')/
-    //-Body
-    mj-body(background-color='#fcfcfc')
-        //- Phrase Mirroir
-        mj-section(background-color='#ffffff' padding-bottom='4px')
-            mj-column(width='480px')
-                mj-text(padding='0' align='center' font-size='12px' font-weight='300' line-height='16px' color='#2D3748') si vous n'arrivez pas à lire cet email, cliquez #[a(style='color:#BA4995;text-decoration:none;font-weight:700' href='{{ mirror }}') ici]
-        //- Header Logo + réseaux sociaux
-        mj-section(background-color='#EDF2F7')
-            mj-group(width='550px') 
-                mj-column(width='60%')
-                    mj-image(align='left' padding='0' width='256px' src='https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png' href='https://ecosup-assurance.fr' alt='Logo Ecosup Assurance')
-                mj-column(width='40%')
-                    mj-image(align='right' padding='0' width='150px' src='https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png' alt='Logo de la Newsletter')
-                    mj-social(align='right' inner-padding='20px 4px 0 20px' padding='0' icon-size='30px' mode='horizontal')
-                        mj-social-element(src='https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif' href='https://www.facebook.com/EcosupAssurance' alt='icon Facebook')
-                        mj-social-element(src='https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif' href='https://www.instagram.com/ecosup.campus/' alt='icon Instagram')
-                        mj-social-element( src='https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f823605bbe5926c9b9.gif' href='https://linkedin.com/company/ecosup-campus' alt='icon Linkedin')
-        //- Header Phrase et date 
-        mj-section(background-color='#EDF2F7' padding='0')
-             mj-column(width='600px')
-                mj-text(padding-bottom='6px' align='left' font-size='16px' font-weight='300' color='#2D3748') #[span(style='font-weight:700;text-transform:uppercase;') news ecosup assurance] | Mai 2024
-        //- Partenaire ESA
-        include includes/_esa
-        //- Bandeau Post
-        include includes/_bandeau
+extends templates/_layout
+block content
+    //- Phrase Mirroir
+    mj-section(background-color='#ffffff' padding-bottom='4px')
+        mj-column(width='480px')
+            mj-text(padding='0' align='center' font-size='12px' font-weight='300' line-height='16px' color='#2D3748') si vous n'arrivez pas à lire cet email, cliquez #[a(style='color:#BA4995;text-decoration:none;font-weight:700' href='{{ mirror }}') ici]
+    //- Header Logo + réseaux sociaux
+    mj-section(background-color='#EDF2F7')
+        mj-group(width='550px') 
+            mj-column(width='60%')
+                mj-image(align='left' padding='0' width='256px' src='https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png' href='https://ecosup-assurance.fr' alt='Logo Ecosup Assurance')
+            mj-column(width='40%')
+                mj-image(align='right' padding='0' width='150px' src='https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png' alt='Logo de la Newsletter')
+                mj-social(align='right' inner-padding='20px 4px 0 20px' padding='0' icon-size='30px' mode='horizontal')
+                    mj-social-element(src='https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif' href='https://www.facebook.com/EcosupAssurance' alt='icon Facebook')
+                    mj-social-element(src='https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif' href='https://www.instagram.com/ecosup.campus/' alt='icon Instagram')
+                    mj-social-element(src='https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f823605bbe5926c9b9.gif' href='https://linkedin.com/company/ecosup-campus' alt='icon Linkedin')
+    //- Header Phrase et date 
+    mj-section(background-color='#EDF2F7' padding='0')
+        mj-column(width='600px')
+            mj-text(padding-bottom='6px' align='left' font-size='16px' font-weight='300' color='#2D3748') #[span(style='font-weight:700;text-transform:uppercase;') news ecosup assurance] | Mai 2024
+            
+            //- Dossier
+            //- Article 1
+            //- Interview

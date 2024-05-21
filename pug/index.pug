@@ -1,5 +1,5 @@
 extends templates/_layout
-block content
+block header
     //- Phrase Mirroir
     mj-section(background-color='#ffffff' padding-bottom='4px')
         mj-column(width='480px')
@@ -18,8 +18,28 @@ block content
     //- Header Phrase et date 
     mj-section(background-color='#EDF2F7' padding='0')
         mj-column(width='600px')
-            mj-text(padding-bottom='6px' align='left' font-size='16px' font-weight='300' color='#2D3748') #[span(style='font-weight:700;text-transform:uppercase;') news ecosup assurance] | Mai 2024
-            
-            //- Dossier
+            mj-text(padding-bottom='6px' align='left' font-size='16px' font-weight='300' color='#2D3748') #[span(style='font-weight:700;text-transform:uppercase;') news ecosup assurance] | Mai 2024        
+//- block esa
+//- block bandeau
+//- Dossier
+block dossier
+    mj-section(background-color="#EDF2F7" padding="0px")
+        mj-column
+            mj-image(padding="0" fluid-on-mobile="true" width="600px" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d5fa1ccefdb35700fd47.jpg" href="https://ecosup-assurance.fr/alternance-modele-educatif-vent-en-poupe/" alt="L'alternance un modèle éducatif")/
+    mj-section(background-color="#EDF2F7" padding="10px 60px 20px")
+        mj-column     
+            mj-text(padding="5px 0 2px 0" font-size="14px" font-weight="900" text-transform="uppercase" color="#944694") Dossier
+            mj-text(padding="0" font-size="28px" font-weight="700" color="#684092") L'Alternance :
+            mj-text(padding="0 0 4px 0" font-size="28px" font-weight="700" color="#684092") un modèle éducatif qui a le vent en poupe
+            mj-text(padding="0" font-size="16px" font-weight="700" line-height="20px") L'alternance : un tremplin vers l'insertion professionnelle 
+            mj-text(padding="0" font-size="16px" font-weight="500" line-height="20px") L'alternance, mode de formation combinant un cursus académique et une expérience professionnelle rémunérée, séduit de plus en plus d'étudiants. Décryptage en trois points de ses atouts et des démarches à suivre pour s'engager dans cette voie prometteuse.
+            mj-text(padding="0" font-size="16px" font-weight="700" line-height="20px") 1. Pédagogie innovante et professionnalisante
+            mj-text(padding="0" font-size="16px" font-weight="700" line-height="20px") 2. Deux contrats pour des objectifs distincts
+            mj-text(padding="0" font-size="16px" font-weight="700" line-height="20px") 3. Démarches et recherche d'alternance
+            mj-text(align="right" font-weight="700") #[a(href="https://ecosup-assurance.fr/alternance-modele-educatif-vent-en-poupe/" style="color:#BA4995;text-decoration:none;") Lire la suite...]    
+
+//- block footer    
+
             //- Article 1
             //- Interview
+    

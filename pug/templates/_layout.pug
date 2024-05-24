@@ -3,8 +3,8 @@ mjml
     mj-head
         mj-title Lettre Assurance Etudiant Mai
         mj-raw.
-            <meta name="color-scheme" content="light"></meta>
-            <meta name="supported-color-schemes" content="light"></meta>
+            <meta name='color-scheme' content='light'></meta>
+            <meta name='supported-color-schemes' content='light'></meta>
         mj-attributes
             mj-all(font-family='Arial, Helvetica, sans-serif')/
         mj-style.
@@ -16,18 +16,29 @@ mjml
         //- Header
         block header
        
+        //- Partenaire ESA
         block esa
-            //- Partenaire ESA
             include ../includes/_esa
 
+        //- Bandeau Post
         block bandeau
-            //- Bandeau Post
             include ../includes/_bandeau
         
         //- Dossier
         block dossier
-            mj-section(background-color="#EDF2F7" padding="0px")
-            
+
+        //- Article
+        block video
+            include ../includes/_article   
+
+        //- Video
+        block video
+            include ../includes/_video
+
+        //- Agenda
+        block agenda
+            include ../includes/_agenda
+
+        //- footer Post
         block footer
-            //- footer Post
             include ../includes/_footer

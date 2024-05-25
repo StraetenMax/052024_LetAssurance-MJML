@@ -77,22 +77,22 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 24px 10px 24px">
       <mj-column padding="8px">
-        <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614da0ad9a1bc2e47fcd502.jpg" href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir/" alt="Décrocher son contrat alternance en 3 étapes"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614da0ad9a1bc2e47fcd502.jpg" href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir/" alt="Décrocher son contrat alternance en 3 étapes"/>
       </mj-column>
       <mj-column padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités assurance</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Décrocher un contrat d'alternance : 3 étapes clés pour réussir</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Interview</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Mathilde future étudiante à Ecosup Assurance a décroché son alternance</mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Avant de vous lancer dans la recherche d'un contrat d'alternance, il est essentiel de définir vos objectifs professionnels. Quel secteur vous attire ?</mj-text>
         <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir" style="color:#BA4995;text-decoration:none;">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 24px 10px 24px">
       <mj-column padding="8px">
-        <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614da0ad9a1bc2e47fcd502.jpg" href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir/" alt="Décrocher son contrat alternance en 3 étapes"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614da0ad9a1bc2e47fcd502.jpg" href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir/" alt="Décrocher son contrat alternance en 3 étapes"/>
       </mj-column>
       <mj-column padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités assurance</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Décrocher un contrat d'alternance : 3 étapes clés pour réussir</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Poste à pouvoir</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Entreprise recherche un chargé en alternance</mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Avant de vous lancer dans la recherche d'un contrat d'alternance, il est essentiel de définir vos objectifs professionnels. Quel secteur vous attire ?</mj-text>
         <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir" style="color:#BA4995;text-decoration:none;">Lire la suite...</a></mj-text>
       </mj-column>
@@ -100,8 +100,8 @@
     <mj-section background-color="#EDF2F7" padding="20px 24px">
       <mj-column padding="8px">
         <mj-text padding="0" font-size="14px" line-height="18px" font-weight="900" text-transform="uppercase" color="#c4302b">Notre chaîne Youtube</mj-text>
-        <mj-text padding="0" font-size="28px" line-height="32px" font-weight="700" color="#684092">L'Assurance, quels métiers ?</mj-text>
-        <mj-text padding="0" font-size="28px" line-height="32px" font-weight="700" color="#684092">Ecosup Assurance vous explique...</mj-text>
+        <mj-text padding="0" font-size="28px" line-height="32px" font-weight="700" color="#684092">Entretien de recrutement :</mj-text>
+        <mj-text padding="0" font-size="28px" line-height="32px" font-weight="400" color="#684092">le préparer c'est le réussir !</mj-text>
       </mj-column>
       <mj-column padding="8px"> 
         <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d659d9a1bc2e47fcd48b.jpg" href="https://youtu.be/BCOZz7vIFCE?si=B7XLGdr77S9EM1Bu" alt="Video sur les métiers de l'Assurance"/>

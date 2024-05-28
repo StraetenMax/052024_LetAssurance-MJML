@@ -54,8 +54,8 @@
     </mj-section>
     <mj-section background-color="#270938">
       <mj-column width="550px">
-        <mj-text align="center" font-size="28px" line-height="32px" font-weight="500" color="#BA4995"><span style="font-weight:700;color:#ffffff;">Plus de 40 postes</span> à pouvoir en <strong style="font-weight:700;color:#ffffff;">alternance</strong> auprès de nos <span style="font-weight:700;color:#ffffff;">entreprises partenaires</span></mj-text>
-        <mj-button css-class="hover" padding="25px 0 15px 0" align="center" font-size="16px" text-transform="uppercase" background-color="#BA4995" color="#ffffff" href="https://ecosup-assurance.fr/category/postes-pourvoir">Postuler</mj-button>
+        <mj-text align="center" font-size="28px" line-height="32px" font-weight="500" color="#BA4995"><span style="font-weight:700;color:#ffffff;">Plus de 40 postes en alternance</span> à pourvoir auprès de nos <span style="font-weight:700;color:#ffffff;">entreprises partenaires</span></mj-text>
+        <mj-button css-class="hover" padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://ecosup-assurance.fr/category/postes-pourvoir">Postulez</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
@@ -78,7 +78,7 @@
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Interview</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Mathilde future étudiante à Ecosup Assurance a décroché son alternance</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Mathilde, future étudiante à Ecosup Assurance a décroché son alternance</mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">A 22 ans, après un BTS MCO, Mathilde prépare un Bachelor Chargée de Clientèles en Assurance et Banque. Elle nous explique les raisons de son choix et comment elle a obtenu son contrat d'alternance</mj-text>
         <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/interview-mathilde" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
@@ -90,7 +90,7 @@
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Poste à pouvoir</mj-text>
         <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Conseiller/ère clientèle en alternance</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Vous rejoignez l’équipe <span style="font-weight:700;">Centre de Relation Clientèle</span> d'un grand groupe bancaire français dont la mission est d'analyser, contrôler et financer des dossiers de regroupement de crédits. Vos missions sont</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Vous rejoignez l'équipe <span style="font-weight:700;">Centre de Relation Clientèle</span> d'un grand groupe bancaire français dont la mission est d'analyser, contrôler et financer des dossiers de regroupement de crédits. Vos missions sont</mj-text>
         <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/conseiller-clientele-2/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>

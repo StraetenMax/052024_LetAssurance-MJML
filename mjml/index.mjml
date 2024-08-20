@@ -29,7 +29,7 @@
       </mj-group>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-bottom="0">
-      <mj-group width="550px"> 
+      <mj-group width="91,666666%"> 
         <mj-column width="60%" padding="10px">
           <mj-image align="left" padding="0" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance"></mj-image>
         </mj-column>
@@ -39,7 +39,7 @@
       </mj-group>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">       
-      <mj-column width="550px">
+      <mj-column width="91,666666%">
         <mj-social align="right" inner-padding="0 10px 0 0px" padding="0 10px" icon-size="30px" mode="horizontal">
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://www.facebook.com/EcosupAssurance" alt="icon Facebook"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
@@ -48,12 +48,12 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">
-      <mj-column width="550px" padding="10px">
+      <mj-column width="91,666666%" padding="10px">
         <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Mai 2024        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938">
-      <mj-column width="550px">
+      <mj-column width="91,666666%">
         <mj-text align="center" font-size="28px" line-height="32px" font-weight="500" color="#BA4995"><span style="font-weight:700;color:#ffffff;">Plus de 40 postes en alternance</span> à pourvoir auprès de nos <span style="font-weight:700;color:#ffffff;">entreprises partenaires</span></mj-text>
         <mj-button css-class="hover" padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://ecosup-assurance.fr/category/postes-pourvoir">Postulez</mj-button>
       </mj-column>
@@ -64,7 +64,7 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="20px">
-      <mj-column width="530px"> 
+      <mj-column width="88,333333%">
         <mj-text padding-top="5px" padding-bottom="5px" font-size="14px" line-height="18px" font-weight="900" text-transform="uppercase" color="#944694">Dossier</mj-text>
         <mj-text padding-top="0" padding-bottom="0" font-size="28px" line-height="30px" font-weight="300" color="#684092">Cyberattaques, Dérèglement climatique et Environnement économique : <span style="font-weight:700;">les risques majeurs pour l'assurance</span></mj-text>
         <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Le monde de l'assurance est confronté à des <span style="font-weight:700;">défis croissants</span> dus à l'<span style="font-weight:700">évolution des risques</span>. Parmi les plus importants, on trouve les <span style="font-weight:700;">cyberattaques</span>, le <span style="font-weight:700;">dérèglement climatique</span> et l'<span style="font-weight:700">environnement économique</span>.</mj-text>
@@ -105,10 +105,10 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff"> 
-      <mj-column width="600px">
+      <mj-column width="100%">
         <mj-text align="left" font-size="28px" font-weight="700" line-height="32px" color="#684092">À vos Agendas</mj-text>
-        <mj-image padding-top="0" padding-bottom="20px" border="none" target="_blank" fluid-on-mobile="true" src="https://i.ibb.co/Y0f8QRG/Forum-Start-Avenir052024.jpg" alt="Forum Start Avenir 29/05/2024"/>
-        <mj-image padding-top="0" padding-bottom="0" border="none" target="_blank" fluid-on-mobile="true" src="https://i.ibb.co/PGhwN1t/JPO22062024.jpg" href="https://forms.gle/Zj3yAbRN3tG3M3mA6" alt="Affiche JPO 22/06/2024"/>
+        <mj-image width="600px" padding-top="0" padding-bottom="20px" border="none" target="_blank" fluid-on-mobile="true" src="https://i.ibb.co/Y0f8QRG/Forum-Start-Avenir052024.jpg" alt="Forum Start Avenir 29/05/2024"/>
+        <mj-image width="600px" padding-top="0" padding-bottom="0" border="none" target="_blank" fluid-on-mobile="true" src="https://i.ibb.co/PGhwN1t/JPO22062024.jpg" href="https://forms.gle/84rJEk8YDumXxvQ8A" alt="Affiche JPO 22/06/2024"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 32px">
